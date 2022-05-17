@@ -10,3 +10,4 @@ Fork test
 
 commit -m '1'
 commit -m '2'
+commit -m '3'
