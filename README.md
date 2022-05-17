@@ -8,4 +8,4 @@
 -->
 Fork test
 
-commit -m '4'
+commit -m 'a'
